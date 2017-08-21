@@ -3,28 +3,26 @@ layout: page
 title: Sobre
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Atividades de Pesquisa e Ensino: atua principalmente no paradígma cerébro-computador realizando pesquisas em processamento digital provenientes da atividade elétrica cerebral em humanos  e animais. Atua também no desenvolvimento de instrumentação eletrônica inteligente  e no estudo teórico e prático das redes neurais e artificiais.
+Equipamentos: Laboratório de prototipação eletrônica; Sistema digital de aquisição de sinais biológicos; Sistema de gravação de microprocessadores e Laboratório de desenvolvimento de softwares. Analisador de espectro.
+Estágios:  Na área de zootecnia de precisão análise sensorial cognitiva, redes neurais artificiais,  programação de computadores e eletrônica.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Responsável:
 
-There are currently two themes built on Poole:
+Prof. Dr. Ernane José Xavier da Costa
+E-mail: ernane@usp.br
+Tel: 55 19 – 3565.4177
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Equipe:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Prof. Dr. Adriano Rogério Bruno Tech
+E-mail: adriano.tech@usp.br
+Tel: 55 19 – 3565.4392 / 3565.6890
 
-## Setup
+Profa. Dra. Ana Carolina de Sousa Silva
+E-mail: anacss@usp.br
+Tel.: 55 19 – 3565.4177
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Aldo Ivan Cespedes Arce (Especialista de Laboratório)
+E-mail: acaid@usp.br
+Tel: 55 19 – 3565.4272
