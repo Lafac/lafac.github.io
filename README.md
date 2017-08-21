@@ -7,7 +7,7 @@ Tema adaptado do autor:
 - <https://twitter.com/mdo>
 
 
-## License
+## Licença
 
 Open sourced under the [MIT license](LICENSE.md).
 
