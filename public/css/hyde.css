@@ -33,7 +33,9 @@
 a {
 color: #ff3333;
 }
-
+.post-title a {
+color: #ff3333;
+}
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
