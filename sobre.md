@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: SOBRE
 ---
 
 Atua principalmente no paradígma cerébro-computador realizando pesquisas em processamento digital provenientes da atividade elétrica cerebral em humanos  e animais. Atua também no desenvolvimento de instrumentação eletrônica inteligente  e no estudo teórico e prático das redes neurais e artificiais.
