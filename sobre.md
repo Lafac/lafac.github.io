@@ -3,25 +3,27 @@ layout: page
 title: SOBRE
 ---
 
-Atua principalmente no paradígma cerébro-computador realizando pesquisas em processamento digital provenientes da atividade elétrica cerebral em humanos  e animais. Atua também no desenvolvimento de instrumentação eletrônica inteligente  e no estudo teórico e prático das redes neurais e artificiais.
 
-**Equipamentos:** 
+![](/uploads/versions/fisica---x----967-288x---.jpg)
 
-Laboratório de prototipação eletrônica; Sistema digital de aquisição de sinais biológicos; Sistema de gravação de microprocessadores e Laboratório de desenvolvimento de softwares. Analisador de espectro.
+Atua principalmente no parad&iacute;gma cer&eacute;bro-computador realizando pesquisas em processamento digital provenientes da atividade el&eacute;trica cerebral em humanos e animais. Atua tamb&eacute;m no desenvolvimento de instrumenta&ccedil;&atilde;o eletr&ocirc;nica inteligente e no estudo te&oacute;rico e pr&aacute;tico das redes neurais e artificiais.
 
-**Estágios:** 
+**Equipamentos:**
 
-Na área de zootecnia de precisão análise sensorial cognitiva, redes neurais artificiais,  programação de computadores e eletrônica.
+Laborat&oacute;rio de prototipa&ccedil;&atilde;o eletr&ocirc;nica; Sistema digital de aquisi&ccedil;&atilde;o de sinais biol&oacute;gicos; Sistema de grava&ccedil;&atilde;o de microprocessadores e Laborat&oacute;rio de desenvolvimento de softwares. Analisador de espectro.
 
-**Responsável:**
+**Est&aacute;gios:**
 
-Prof. Dr. Ernane José Xavier da Costa
+Na &aacute;rea de zootecnia de precis&atilde;o an&aacute;lise sensorial cognitiva, redes neurais artificiais, programa&ccedil;&atilde;o de computadores e eletr&ocirc;nica.
+
+**Respons&aacute;vel:**
+
+[Prof. Dr. Ernane Jos&eacute; Xavier da Costa](javascript:void(location.href='mailto:'+String.fromCharCode(101,114,110,97,110,101,64,117,115,112,46,98,114)))
 
 **Equipe:**
 
-Prof. Dr. Adriano Rogério Bruno Tech
+Prof. Dr. Adriano Rog&eacute;rio Bruno Tech
 
 Profa. Dra. Ana Carolina de Sousa Silva
 
-Aldo Ivan Cespedes Arce (Especialista de Laboratório)
-
+Aldo Ivan Cespedes Arce *(Especialista de Laborat&oacute;rio)*
