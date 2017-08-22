@@ -30,6 +30,9 @@
  *
  * Update the foundational and global aspects of the page.
  */
+a {
+color: #ff3333;
+}
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
