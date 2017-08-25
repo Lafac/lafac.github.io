@@ -13,13 +13,13 @@ url:              /
 baseurl:          /
 root:             /
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'José Pedro'
+  url:            https://jpedrobiosystems.github.io/
 
 paginate:         5
 
 # Custom vars
 version:          1.1.0
 
-github: 
+github:
   repo:          https://github.com/Lafac/
