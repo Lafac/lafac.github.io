@@ -11,6 +11,7 @@ tagline:          'Desenvolvimento de instrumentação eletrônica inteligente e
 description:      'Lab. de Física Aplicada e Computacional (LAFAC/ZAB)'
 url:              http://lafac.github.io/
 baseurl:          /
+repository:       lafac/lafac.github.io
 
 author:
   name:           'Mark Otto'
