@@ -12,20 +12,20 @@ title: Blog
       </a>
     </h1>
 
-    <span class="post-date">{{ page.date | date: "%m/%d/%Y" }}</span>
+    <span class="post-date">{{ page.date | date: "%d/%m/%Y" }}</span>
 
     {{ post.content }}
   </div>
   {% endfor %}
 </div>
 
-<div class="pagination"> 
+<div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
   {% else %}
     <span class="previous">Anterior</span>
   {% endif %}
-  <span class="page_number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+  <span class="page_number ">página {{ paginator.page }} de {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Próxima</a>
   {% else %}
