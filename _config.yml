@@ -4,14 +4,14 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-
+repository:       lafac/lafac.github.io
 # Setup
 title:            LAFAC
 tagline:          'Desenvolvimento de instrumentação eletrônica inteligente e estudo teórico e prático das redes neurais e artificiais.'
 description:      'Lab. de Física Aplicada e Computacional (LAFAC/ZAB)'
-url:              http://lafac.github.io/
+url:              /
 baseurl:          /
-root:             /       
+root:             /
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
@@ -22,4 +22,3 @@ paginate:         5
 version:          1.1.0
 
 github:
-  repo:          https://github.com/Lafac
