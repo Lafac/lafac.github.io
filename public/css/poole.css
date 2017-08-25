@@ -89,11 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-<<<<<<< HEAD
   font-size: 2rem;
-=======
-  font-size: 1.6rem;
->>>>>>> f464fd7b0ce2ecc4384c784021c3fdae6a6f91bc
 }
 h2 {
   margin-top: 1rem;
