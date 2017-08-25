@@ -37,9 +37,8 @@ color: #ff3333;
 color: #ff3333;
 }
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif; font-size: 17px;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-
 @media (min-width: 48em) {
   html {
     font-size: 16px;

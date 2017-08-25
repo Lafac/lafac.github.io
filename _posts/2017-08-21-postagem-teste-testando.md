@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Postagem teste testando
+author: José Pedro Mello
 ---
 
 
