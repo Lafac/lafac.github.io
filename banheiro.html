@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <title>Posso usar o banheiro do Lafac?</title>
+  <style>
+  body {
+    background-image: url(https://img.wonderhowto.com/img/77/45/63637780550039/0/health-alert-youre-taking-crap-wrong-is-you-poop-properly.1280x600.jpg); background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+  }
+
+   a {
+     color: #000;
+   }
+   .effect6
+{
+  	position:relative;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.cmn-toggle {
+
+  visibility: hidden;
+}
+.cmn-toggle + label {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+input.cmn-toggle-yes-no + label {
+  padding: 2px;
+  width: 120px;
+  height: 60px;
+}
+input.cmn-toggle-yes-no + label:before, input.cmn-toggle-yes-no + label:after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  color: #000;
+  font-family: "Roboto Slab", serif;
+  font-size: 20px;
+  text-align: center;
+  line-height: 60px;
+}
+input.cmn-toggle-yes-no + label:before {
+  background-color: #f33;
+  color:#fff;
+  content: attr(data-off);
+  -webkit-transition: -webkit-transform 0.5s;
+  -moz-transition: -moz-transform 0.5s;
+  -o-transition: -o-transform 0.5s;
+  transition: transform 0.5s;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+input.cmn-toggle-yes-no + label:after {
+  background-color: #8ce196;
+  content: attr(data-on);
+  -webkit-transition: -webkit-transform 0.5s;
+  -moz-transition: -moz-transform 0.5s;
+  -o-transition: -o-transform 0.5s;
+  transition: transform 0.5s;
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+input.cmn-toggle-yes-no:checked + label:before {
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+input.cmn-toggle-yes-no:checked + label:after {
+  -webkit-transform: rotateY(0);
+  -moz-transform: rotateY(0);
+  -ms-transform: rotateY(0);
+  -o-transform: rotateY(0);
+  transform: rotateY(0);
+}
+    #answer {
+
+      font-size: 6em;
+      padding: 25px;
+      background-color: rgba(255, 255, 255, 0.8);
+      border-radius: 25px;
+      left: 50%;
+      margin: 0;
+      position: absolute;
+      text-align: center;
+      top: 40%;
+      transform: translate(-50%, -50%);
+    }
+    h3 {
+      font-size: 2em;
+      font-weight: 500;
+      left: 50%;
+      margin: 0;
+      position: absolute;
+      text-align: center;
+      top: 40%;
+      transform: translate(-50%, -50%);
+    }
+    #posso {
+      font-size: 0.3em;
+      margin: 0 auto;
+      text-align: center;
+    }
+    #since {
+      font-size: 0.15em;
+      margin: 0 auto;
+      text-align: center;
+    }
+    #atualize {
+      font-size: 0.7em;
+      position: relative;
+      margin: 0 auto;
+      text-align: center;
+      text-transform:uppercase;
+    }
+    #versao {
+      font-size: 0.6em;
+      position: relative;
+      margin: 10px auto;
+      text-align: center;
+
+    }
+    #footer {
+
+      position:absolute;
+      margin: 0 auto;
+      left: 0;
+      right: 0;
+      bottom: 0;
+  width: 300px;
+  height:50px;
+
+
+    }
+    .nariz {
+      width:120px; margin-bottom:10px; padding:20px;
+    }
+    @media only screen and (max-width: 500px) {
+      #answer  {
+            font-size: 5em;
+
+      }
+      .nariz {
+        width:120px; margin-bottom:10px; padding:5px;
+      }
+      #posso {
+        font-size: 0.25em;
+        margin: 0 auto;
+        text-align: center;
+      }
+  }
+  </style>
+</head>
+<body>
+
+  <div class="effect6" id="answer">
+    <img src="https://d30y9cdsu7xlg0.cloudfront.net/png/20407-200.png" class="nariz" alt="">
+   <p id="posso">Posso usar o banheiro do lafac?</p>
+<b>
+  <div type="button">
+    <input id="theButton" id="theButton" class="cmn-toggle cmn-toggle-yes-no" type="checkbox">
+    <label for="cmn-toggle-7" data-on="Sim" data-off="Não"></label>
+  </div>  <!--  SIM   ATUALIZE O STATUS AQUI-->
+</b>
+<div class="content" id="readOut">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <p id="since"></p>
+
+  </div>
+<div id="footer">
+<div class="footerw">
+
+    <a href="https://github.com/Lafac/banheiro"><p id="atualize">Atualize o status via repositório do github</p></a>
+    <p id="versao">Versão Alpha</p>
+</div></div>
+  <script>
+
+    var LAST_UPDATE = new Date(document.lastModified);
+
+    var sinceEl = document.getElementById('since');
+
+    function getTimeSince(starttime) {
+      var t = +new Date - starttime;
+      var seconds = Math.floor((t / 1000) % 60);
+      var minutes = Math.floor((t / 1000 / 60) % 60);
+      var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+      var days = Math.floor(t / (1000 * 60 * 60 * 24));
+
+      return {
+        'total': t,
+        'days': days,
+        'hours': hours,
+        'minutes': minutes,
+        'seconds': seconds
+      };
+    }
+
+    function pluralize(s, v) {
+      if (v > 1) {
+        s += 's';
+      }
+      return s;
+    }
+
+    function updateTimer() {
+      var time = getTimeSince(LAST_UPDATE);
+
+      var countdownStr = '(atualizado a ';
+
+      var days = time.days;
+      if (days > 0) {
+        countdownStr += days + ' ' + pluralize('dia', days) + ', ';
+      }
+
+      var hours = time.hours;
+      if (hours > 0) {
+        countdownStr += hours + ' ' + pluralize('hora', hours) + ', ';
+      }
+
+      var minutes = time.minutes;
+      countdownStr += minutes + ' ' + pluralize('minuto', minutes) + ' e ';
+
+      var seconds = time.seconds;
+      countdownStr += seconds + ' ' + pluralize('segundo', seconds);
+
+      countdownStr += ' atrás)';
+
+      sinceEl.innerText = countdownStr;
+    }
+
+    setInterval(updateTimer, 100);
+  </script>
+  <script src="https://www.gstatic.com/firebasejs/4.3.0/firebase.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.0/moment.min.js"></script>
+
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDesoNIuzgEXxJEOwUpSMPLUO2Fjro08qE",
+    authDomain: "banheiro-94baa.firebaseapp.com",
+    databaseURL: "https://banheiro-94baa.firebaseio.com",
+    projectId: "banheiro-94baa",
+    storageBucket: "banheiro-94baa.appspot.com",
+    messagingSenderId: "38919902712"
+  };
+  firebase.initializeApp(config);
+  var database = firebase.database();
+
+  function writeNumberToDatabase() {
+  var data = database.ref(); //root
+  data.transaction(function(datum) {
+    return { numero: datum.numero+1, timeStamp: firebase.database.ServerValue.TIMESTAMP};
+  });
+  //note we are using Firebase Servers Timestamp
+}
+var aNumberRef = database.ref();
+aNumberRef.on('value', function(snapshot) {
+  document.getElementById("readOut").innerHTML = 'I\'ve been clicked   <b>' + snapshot.val().numero + '</b> Times! <br />Last time it was <b>'+ moment(snapshot.val().timeStamp).calendar()+ '</b>';
+});
+
+document.getElementById("theButton").onclick = function() {
+  document.getElementById("theButton").blur();
+  writeNumberToDatabase();
+};
+</script>
+
+</body>
+</html>
